@@ -10,7 +10,7 @@ This project is written by me and developed on [github](https://github.com/githu
 - etc.
 
 ---
-> Note: The files currently in this repository are not complete yet and we'll be back with more files soon.
+> Note: Comming Soon.
 ---
 
 Thanks.
